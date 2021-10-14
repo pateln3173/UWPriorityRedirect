@@ -1,0 +1,48 @@
+-----------Exception Details on  10/6/2021 11:30:55 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/6/2021 11:30:55 AM
+
+Error Line No : ine 158
+
+Error Message: SmtpException
+
+Exception Type: System.Net.Mail.SmtpException
+
+Error Location : Failure sending mail.
+
+ Error Page Url: https://localhost:44344/Default.aspx/UWPriorityRedirect
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10/6/2021 11:35:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/6/2021 11:35:50 AM
+
+Error Line No : ine 158
+
+Error Message: SmtpException
+
+Exception Type: System.Net.Mail.SmtpException
+
+Error Location : Failure sending mail.
+
+ Error Page Url: https://localhost:44344/Default.aspx/UWPriorityRedirect
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

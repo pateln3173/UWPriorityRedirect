@@ -1,0 +1,72 @@
+-----------Exception Details on  9/22/2021 1:52:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/22/2021 1:52:36 PM
+
+Error Line No : ine 131
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The SMTP host was not specified.
+
+ Error Page Url: https://localhost:44344/Default.aspx/UWPriorityRedirect
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/22/2021 1:54:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/22/2021 1:54:34 PM
+
+Error Line No : ine 131
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The SMTP host was not specified.
+
+ Error Page Url: https://localhost:44344/Default.aspx/UWPriorityRedirect
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/22/2021 2:35:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/22/2021 2:35:25 PM
+
+Error Line No : ine 103
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : The SMTP host was not specified.
+
+ Error Page Url: https://localhost:44344/Default.aspx/UWPriorityRedirect
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

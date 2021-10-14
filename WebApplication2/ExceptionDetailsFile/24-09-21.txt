@@ -1,0 +1,24 @@
+-----------Exception Details on  9/24/2021 9:30:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/24/2021 9:30:50 AM
+
+Error Line No : line 43
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Database 'Ops' cannot be opened. It is in the middle of a restore.
+
+ Error Page Url: https://localhost:44344/Default.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

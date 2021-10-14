@@ -1,0 +1,192 @@
+-----------Exception Details on  9/21/2021 2:44:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/21/2021 2:44:31 PM
+
+Error Line No : line 48
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'edw.UnderwritingPriorityRedirectZZZ'.
+
+ Error Page Url: https://localhost:44344/Default
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/21/2021 2:58:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/21/2021 2:58:55 PM
+
+Error Line No : line 47
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'edw.UnderwritingPriorityRedirectZZZ'.
+
+ Error Page Url: https://localhost:44344/Default
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/21/2021 3:00:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/21/2021 3:00:10 PM
+
+Error Line No : line 47
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'edw.UnderwritingPriorityRedirectZZZ'.
+
+ Error Page Url: https://localhost:44344/Default
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/21/2021 3:00:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/21/2021 3:00:55 PM
+
+Error Line No : line 47
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'edw.UnderwritingPriorityRedirectZZZ'.
+
+ Error Page Url: https://localhost:44344/Default
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/21/2021 3:02:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/21/2021 3:02:57 PM
+
+Error Line No : line 47
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'edw.UnderwritingPriorityRedirectZZZ'.
+
+ Error Page Url: https://localhost:44344/Default
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/21/2021 3:06:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/21/2021 3:06:41 PM
+
+Error Line No : line 47
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'edw.UnderwritingPriorityRedirectZZZ'.
+
+ Error Page Url: https://localhost:44344/Default
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/21/2021 3:07:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/21/2021 3:07:39 PM
+
+Error Line No : line 47
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'edw.UnderwritingPriorityRedirectZZZ'.
+
+ Error Page Url: https://localhost:44344/Default
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/21/2021 3:31:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/21/2021 3:31:25 PM
+
+Error Line No : ine 130
+
+Error Message: SmtpException
+
+Exception Type: System.Net.Mail.SmtpException
+
+Error Location : Failure sending mail.
+
+ Error Page Url: https://localhost:44344/Default.aspx/UWPriorityRedirect
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
