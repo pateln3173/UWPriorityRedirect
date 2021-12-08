@@ -109,9 +109,11 @@ namespace WebApplication2
             var context = new PrincipalContext(ContextType.Domain);
             UserPrincipal principal = UserPrincipal.FindByIdentity(context, currentName);
             string displayName = principal.DisplayName;
+            var emailAddress = principal.EmailAddress;
 
             message.Body += "<p>Submitted By: " + displayName + " (" + currentName + ")</p>";
             message.IsBodyHtml = true;
+            message.ReplyToList.Add(emailAddress);
 
             if (ConfigurationManager.AppSettings["testEmail"].ToString() != "Y")
             {
@@ -139,6 +141,7 @@ namespace WebApplication2
                 try
                 {
                     client.Send(message);
+                    //ExceptionLogging.SendInfoToText("", sortedLoans[0].LoanNumber, sortedLoans[1].LoanNumber);
                     ExceptionLogging.SendInfoToText(displayName, sortedLoans[0].LoanNumber, sortedLoans[1].LoanNumber);
                     return true;
                 }
